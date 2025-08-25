@@ -1,0 +1,32 @@
+﻿# AI in 20 Days — Nilay
+
+Bu repo 20 günlük yapay zekâ stajımın gün gün çalışmalarını içerir.
+- Günlük notebooklar: 
+otebooks/
+- Raporlar ve görseller: eports/
+- Kaynak kodlar: src/
+- Testler: 	ests/
+"@ | Set-Content -Encoding utf8 README.md
+
+# .gitignore oluştur
+@"
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+.env
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Test
+.pytest_cache/
+
+# Veri & Modeller
+data/
+models/
+mlruns/
+
+# OS
+.DS_Store
