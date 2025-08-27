@@ -4,7 +4,7 @@
 
 - [x] Day 1 — Setup (Python, env, repo, first commit)
 - [x] Day 2 — NumPy (arrays, slicing, transpose, vectorization)
-- [ ] Day 3 — Pandas (dataframes, filtering, groupby)
+- [x] Day 3 — Pandas (dataframes, filtering, groupby)
 - [ ] Day 4 — Pandas (joins, missing data, statistics)
 - [ ] Day 5 — Matplotlib/Seaborn (visualization basics)
 - [ ] Day 6 — Matplotlib/Seaborn (advanced plots)
